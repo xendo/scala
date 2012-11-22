@@ -1,5 +1,14 @@
 *.class
 *.log
+# eclipse, intelij
+*/.classpath
+*/.project
+*/src/intellij/*.iml
+*/src/intellij/*.ipr
+*/src/intellij/*.iws
+*/.cache
+*/.idea
+*/.settings
 
 # sbt specific
 dist/*
