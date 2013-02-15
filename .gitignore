@@ -9,6 +9,9 @@
 */.cache
 */.idea
 */.settings
+*.gitignore~
+
+.metadata/
 
 # sbt specific
 dist/*
